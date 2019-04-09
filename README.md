@@ -1,5 +1,5 @@
 # nikitas-badges
-some badges I made to be used with local-badges
+some badges I made to be used with [local-badges](https://github.com/nikita-skobov/local-badges)
 
 ## Installation
 
