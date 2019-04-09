@@ -24,7 +24,6 @@ function grabKeywords(str, keywords) {
 
 module.exports = {
   name: 'coverage',
-  folder: './',
   fn: (cliObj) => {
     const coveragePath = cliObj['coverage-path']
         const cloverData = fs.readFileSync(coveragePath, { encoding: 'UTF-8' })

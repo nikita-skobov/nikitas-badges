@@ -1,6 +1,5 @@
 module.exports = {
   name: 'build-status',
-  folder: './',
   fn: (cliObj) => {
     const retObj = {
       text: ['build', 'failing'],
