@@ -1,6 +1,13 @@
 # nikitas-badges
 some badges I made to be used with local-badges
 
+## Installation
+
+```sh
+npm install --save nikitas-badges
+```
+
+
 ## buildStatus
 
 ### Usage:
