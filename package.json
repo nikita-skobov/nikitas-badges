@@ -1,0 +1,28 @@
+{
+  "name": "nikitas-badges",
+  "version": "1.0.0",
+  "description": "some badges I made to be used with local-badges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests yet :('"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikita-skobov/nikitas-badges.git"
+  },
+  "keywords": [
+    "local",
+    "badges",
+    "build",
+    "status",
+    "code",
+    "coverage",
+    "badge"
+  ],
+  "author": "Nikita Skobov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikita-skobov/nikitas-badges/issues"
+  },
+  "homepage": "https://github.com/nikita-skobov/nikitas-badges#readme"
+}
