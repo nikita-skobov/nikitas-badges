@@ -51,16 +51,16 @@ module.exports = {
 
         const returnObj = {
           text: ['coverage', `${totalPercentage}%`],
-          colorA: 'grey',
+          colorA: '#555',
         }
 
         // you can pick your own range, and colors here
         if (totalPercentage > 85) {
-          returnObj.colorB = 'brightgreen'
+          returnObj.colorB = '#4c1'
         } else if (totalPercentage > 60) {
-          returnObj.colorB = 'yellow'
+          returnObj.colorB = '#dfb317'
         } else {
-          returnObj.colorB = 'orange'
+          returnObj.colorB = '#fe7d37'
         }
 
         return returnObj
